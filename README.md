@@ -3,7 +3,7 @@
 ## Project Info
 Marrazzo Vincenzo: *0522501325*
 
-Benchmark with AWS: **6** *instances*, **4** *vCPU* and **16** GB memory (*e2-standard-4*)
+Benchmark with Google Cloud: **6** *instances*, **4** *vCPU* and **16** GB memory (*e2-standard-4*)
 
 # Indice
 * [Introduzione](#conways-game-of-life)
